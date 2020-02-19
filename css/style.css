@@ -16,10 +16,10 @@ h1, h2
 }
 
 /* hides 'Update' button and 'Add Train'/'Update Train' panel */
-#update-btn , #add-panel 
+/* #update-btn , #add-panel 
 {
 	display: none;
-}
+} */
 
 /*makes panel backrounds semi-transparent*/
 #schedule-panel, #add-panel
